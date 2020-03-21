@@ -12,6 +12,7 @@ gunicorn = "*"
 heroku = "*"
 httptools = "*"
 requests = "*"
+uvloop = "*"
 
 [requires]
 python_version = "3.7"
