@@ -10,7 +10,6 @@ fastapi = "*"
 uvicorn = "*"
 gunicorn = "*"
 heroku = "*"
-uvloop = "*"
 httptools = "*"
 requests = "*"
 
